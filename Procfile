@@ -1,1 +1,0 @@
-eyzalts: node index.js
