@@ -1,0 +1,24 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "DiscordBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^1.4.3",
+    "discord.js": "^11.3.2",
+    "mathjs": "^5.0.4",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "nekos.life": "^1.0.6",
+    "opusscript": "0.0.6",
+    "relevant-urban": "^2.0.0",
+    "superagent": "^3.8.3",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.24.0"
+  }
+}
